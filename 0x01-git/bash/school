@@ -1,7 +1,5 @@
 
-#!/usr/bin/bash
-
-
+#!/bin/bash
 echo "SCHOOL"
 
 
